@@ -1,0 +1,16 @@
+Başla
+Sensörden verileri iste
+Sensör verilerini kontrol et
+Eğer
+  Sensör değeri<=100 ise 
+  Yeşil Lamba Yak.
+Eğer
+  Sensör değeri <=200 ise
+  Sarı Lamba Yak.
+Eğer
+  Sensör değeri <=300 ise
+  Buzzer ve Titreşim Motoru Devreye Gir
+Eğer
+  Sensör değeri <=400 ise
+   Fan Devreye Gir.
+Bitir.
